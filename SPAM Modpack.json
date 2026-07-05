@@ -1,0 +1,17 @@
+{
+  "explicit": [
+    "cam:colossus-addon-mod-spam-controller",
+    "cam:ordinances",
+    "fantozzi:colossus-farming",
+    "peg:spam-base-set"
+  ],
+  "variants": {
+    "CAM": "no",
+    "config:sc4-edition:edition": "Windows-digital",
+    "fantozzi:colossus-farming:spam": "yes"
+  },
+  "channels": [
+    "https://memo33.github.io/sc4pac/channel/",
+    "https://sc4pac.simtropolis.com/"
+  ]
+}
